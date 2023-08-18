@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarGarage</string>
+    <!-- Other strings... -->
+
+    <string-array name="serviced_options">
+        <item>Serviced</item>
+        <item>Not Serviced</item>
+    </string-array>
+
+    <string name="serviced_prompt">Select Service Option</string>
+</resources>
